@@ -10,7 +10,6 @@ Covers:
 Definition of a database.
 Types of databases (Relational, NoSQL, In-memory).
 Database components (Tables, Rows, Columns).
-
 Practical Aspects:
 MySQL installation and configuration steps.
 Importing an IMDB dataset.
@@ -50,12 +49,12 @@ Detailed SQL analysis projects are included, showcasing practical applications o
    appears to be 20 SQL analysis questions, with examples like retrieving all books in the "Fiction" genre, and queries to find customers who spent the most on orders, including result grids for verification.
    Database schema design, data insertion, and a variety of SQL queries for analytical purposes (filtering, aggregation, ordering, joining).
 - **Pizza Sales Analysis:** Provides insights into sales trends, popular pizza types, and revenue generation.
-   This PDF outlines a SQL project for analyzing pizza sales. It starts with the creation of a pizza database and its related tables (orders, order_details, pizzas, pizza_types). The document then - --
+   This PDF outlines a SQL project for analyzing pizza sales. It starts with the creation of a pizza database and its related tables (orders, order_details, pizzas, pizza_types). The document then
    proceeds to address 13 SQL analysis questions, such as calculating total orders, total revenue from pizza sales, identifying the highest-priced pizza, and determining top ordered pizza types based on revenue.
    Database setup for sales data, calculating key performance indicators, and analyzing sales trends using SQL queries.
 
 ## Learning Notes
-Structured notes from my SQL learning, organized by week, covering:
+  Structured notes from my SQL learning, organized by week, covering:
 - Database fundamentals
 - Basic to advanced SQL queries
 - Data manipulation and control
